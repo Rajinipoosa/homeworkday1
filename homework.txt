@@ -1,1 +1,2 @@
 practising git hub
+Going through some of the adding files to staging.
